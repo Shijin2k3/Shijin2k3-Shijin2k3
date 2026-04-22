@@ -1,9 +1,8 @@
-# Hi, I'm Shijin 👋
-
-🚀 Fullstack Developer (Backend-Focused)
-💻 Building scalable APIs using NestJS & PostgreSQL
-🎨 Creating clean UI with React & Next.js
-
+🧠 About Me
+💻 Fullstack Developer with strong backend focus
+⚙️ Building scalable APIs using NestJS & PostgreSQL
+🧩 Designed reusable QueryBuilder engine (filters, joins, pagination)
+📚 Currently learning System Design & DevOps
 ---
 
 ## ⚙️ Tech Stack
