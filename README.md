@@ -1,4 +1,4 @@
-###🧠 About Me
+### 🧠 About Me
 
 * 💻 Fullstack Developer with strong backend focus
 * ⚙️ Building scalable APIs using NestJS & PostgreSQL
